@@ -24,6 +24,6 @@ In this notebook, I used the combination of text vectorization TF_IDF and Trunca
 
 **03_Model_prediction.ipynb**
 
-A Logistic Regression and BernoulliNB model were trained on the Wikipedia corpus to predict which major category a body of text is derived from. The text documents are broken into train and test groups, and the model performs surprisingly well with the Logistic Regression model having accuracy score of 0.98 and precision, recall and f1-scores all above 0.96. The BernoulliNB model performed slightly worse with classification report scores just abouve 0.95.
+A Logistic Regression and BernoulliNB model were trained on the Wikipedia corpus to predict which major category a body of text is derived from. The text documents are broken into train and test groups, and the model performs surprisingly well with the Logistic Regression model having accuracy score of 0.98 and precision, recall and f1-scores all above 0.96. The BernoulliNB model performed slightly worse with classification report scores just above 0.95.
 
 
